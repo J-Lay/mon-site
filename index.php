@@ -19,6 +19,3 @@
 </body>
 
 </html>
-
-
-git add --all && git commit -m 'ajout css'
